@@ -23,7 +23,7 @@ if __name__ == "__main__":
         raise
 
         testbit 123
-        
+        testbit 2
 
     # This allows easy placement of apps within the interior
     # care directory.
